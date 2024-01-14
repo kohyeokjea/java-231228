@@ -1,0 +1,14 @@
+package g_Chapter06;
+
+// 메서드
+// : 특정 작업을 수행하는 이련의 문장들을 하나로 묶은 것
+// : 어떤 값을 입력하면 해당 값으로 작업을 수행하여 결과를 반환
+
+public class Method02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
