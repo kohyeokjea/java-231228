@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/Users/koeode/Documents/Java_Work/.metadata/.plugins/org.eclipse.jdt.core
+2703020543.index
+2921945530.index
+4255033163.index
+1865797976.index
