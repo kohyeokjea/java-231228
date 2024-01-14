@@ -37,12 +37,12 @@ public class MethodPractice {
 
 		// BaseballPlayer 클래스로 야구선수 3명의 객체 생성
 		// 총 생성된 선수의 수를 출력
-		BaseballPlayer bp1 = new BaseballPlayer("이대호", 1.1, 2);
+		BaseballPlayer bp1 =new BaseballPlayer("이대호", 1.1, 2);
 		BaseballPlayer bp2 = new BaseballPlayer("류현진", 12, 4);
 		BaseballPlayer bp3 = new BaseballPlayer("강민", 1.3, 3);
-
+		
 		System.out.println(BaseballPlayer.playerCount);
-
+		
 	}
 
 }
