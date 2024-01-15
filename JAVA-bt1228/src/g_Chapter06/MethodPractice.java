@@ -14,7 +14,7 @@ class BaseballPlayer {
 	// 생성자
 	// : 생성 시 선수의 이름, 타율, 홈런 수를 받아서 인스턴스 변수 초기화
 	// : 생성 시 정적 변수를 후휘 증가(변수명 ++)
-	BaseballPlayer(String name, double battingAverage, int homeRuns) {
+	public BaseballPlayer(String name, double battingAverage, int homeRuns) {
 		this.name = name;
 		this.battingAverage = battingAverage;
 		this.homeRuns = homeRuns;
