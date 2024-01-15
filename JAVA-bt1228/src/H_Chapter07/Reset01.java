@@ -1,4 +1,4 @@
-package H_Chapter07;
+package h_Chapter07;
 
 // 변수의 초기화
 // : 변수를 선언하고 처음으로 값을 저장하는 것

@@ -1,4 +1,4 @@
-package H_Chapter07;
+package h_Chapter07;
 
 // 클래스 구조 - 변수, 메서드, 생성자
 

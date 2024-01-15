@@ -1,4 +1,4 @@
-package H_Chapter07;
+package h_Chapter07;
 
 // 사람 클래스(Person)
 // 인스턴스 변수(이름, 나이)
